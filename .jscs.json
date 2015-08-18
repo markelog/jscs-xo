@@ -1,4 +1,5 @@
 {
+	"preset": "./jscsrc-esnext",
 	"disallowCapitalizedComments": true,
 	"disallowEmptyBlocks": true,
 	"disallowIdentifierNames": [
